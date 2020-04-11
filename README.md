@@ -6,4 +6,4 @@ It can also activate and deactivate friends
 
 The app uses <i> setState </i> to manage state in the app
 
-<b>setState()</b> is used to change or update state ie 
+<b>setState()</b> is used to change or update state ie an instance of React Component Class
